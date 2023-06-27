@@ -1,7 +1,7 @@
 /*:
- * The Trackasia Test Playground demonstrates basic rendering of a Mapbox style using the current Trackasia binary.
+ * The MapLibre Test Playground demonstrates basic rendering of a Mapbox style using the current MapLibre binary.
  * Useful for testing the data in the`binaryTarget[]` in this Swift Package repo.
- * Downloads the Trackasia `.xcframework` and creates a simple map, thereby testing the Swift Package Manager workflow.
+ * Downloads the MapLibre `.xcframework` and creates a simple map, thereby testing the Swift Package Manager workflow.
  * Add your style for basic rendering tests.
  * Using the same style, demonstrate how to use `MGLMapSnapshotter`.
  */
