@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Mapbox",
-            url: "https://github.com/track-asia/trackasia-native/releases/download/ios-v1.0.0/Mapbox-1.0.0.zip",
-            checksum: "06a05babce94e0f6c4248bfeace821c217279c10bed994bcbda6e22613235f6b")
+            url: "https://github.com/track-asia/trackasia-native/releases/download/ios-v2.0.0/Mapbox-2.0.0.zip",
+            checksum: "e0a19c2ac43942108fc0e65541341f1081e9ab352e5abb292a5c1978092b3819")
     ]
 )
