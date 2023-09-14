@@ -15,6 +15,6 @@ let package = Package(
             name: "Mapbox",
             url: "https://github.com/track-asia/trackasia-native/releases/download/ios-v1.0.1/Mapbox-1.0.1.zip",
             //checksum: "85a2842a8d5cd682c5736512b197dde2d391a8559df9d939bc90ab1bd4bbba49")
-            checksum: "e9f959a33646094cfbca0c77eda4ca21d419d35a8223245b984f2e110b67a636")
+            checksum: "1d3cda05c283373b5df111bb55b11df88cde93cd34800ca7469d2e597d1328a0")
     ]
 )
