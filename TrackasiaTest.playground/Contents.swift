@@ -33,7 +33,7 @@ mapView.debugMask = MLNMapDebugMaskOptions(rawValue:
                                           )
 
 // Set Style
-var styleJSON = "https://demotiles.trackasia.org/style.json"
+var styleJSON = "https://maps.track-asia.com/styles/v1/streets.json?key=public_key"
 
 mapView.styleURL = URL(string: styleJSON)
 mapView.setCenter(CLLocationCoordinate2D(latitude: 0.0, longitude: 0.0), zoomLevel: 3, animated: false)
