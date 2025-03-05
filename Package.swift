@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "TrackAsia",
             url: "https://github.com/track-asia/trackasia-native/releases/download/ios-v2.0.0/TrackAsia.dynamic.xcframework.zip",
-            checksum: "a1334dc3c3d5c630569a2bd486d3b779d281b676ae185ebe2fc3446f5a5cf5c8")
+            checksum: "05aa07386e5a22ae17b18e6b10718452a0e862670dd90da13f3bf30e32de7f93")
             
     ]
 )
